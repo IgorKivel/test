@@ -1,11 +1,11 @@
 <?php
 /**
- * @author: Denis Akulov <akulov.d.g@gmail.com>
- * @since: 29.10.15
+ * @author: Apostol Alexandr <dev@apo100l.ru>
+ * @since: 12.06.16
  */
 
 
-namespace SpaceWeb\Quest;
+namespace Apo100l\Quest;
 
 abstract class QuestAbstract
 {

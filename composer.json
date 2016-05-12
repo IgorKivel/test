@@ -1,17 +1,17 @@
 {
     "name": "spaceweb/quest",
-    "description": "quest for interviewers",
+    "description": "quest for php dev",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
-            "name": "Denis Akulov",
-            "email": "akulov.d.g@gmail.com"
+            "name": "Apostol Alexandr",
+            "email": "dev@apo100l.ru"
         }
     ],
     "autoload": {
         "psr-4": {
-            "SpaceWeb\\Quest\\": "src/classes/"
+            "Apo100l\\Quest\\": "src/classes/"
         }
     }
 }
