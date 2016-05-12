@@ -1,6 +1,6 @@
 # test_php
 Тестовое задание для PHP программиста
-# quest
+# Задача
 Необходимо используя composer-пакет [spaceweb/quest](https://packagist.org/packages/spaceweb/quest) написать консольную утилиту вычисляющую количество и сумму платежей для которых сформированы и не сформированы документы.
 
 Для установки пакета воспользуйтесь командой: <pre>composer require spaceweb/quest</pre>
